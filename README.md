@@ -81,10 +81,3 @@ The main Airflow DAG (`dags/postgres_extract_data_dag_with_api_v1.py`) orchestra
 #### Testing
 
 - This repository includes a placeholder for DAG tests (`tests/dags/test_dag_example.py`). Add unit tests using libraries like `unittest` or `pytest` to test specific functions or components of your DAG.
-
-#### Contributors
-
-- **Author**: Your Name
-- **Email**: Your Email Address
-
-Feel free to modify and expand upon this README based on your specific project requirements and additional details you may want to include.
